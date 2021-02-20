@@ -31,3 +31,9 @@ Generate a summary statistics table consisting of the mean, median, variance, st
 * Generate a [scatter plot](https://github.com/SusanCThomas/Pymaceuticals-Matplotlib/blob/main/Pymaceuticals/Images/scatterplot.png) of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the [linear regression model](https://github.com/SusanCThomas/Pymaceuticals-Matplotlib/blob/main/Pymaceuticals/Images/linear_regression.png) on top of the previous scatter plot.
+
+### Data Analysis
+
+Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+
+Three observations are included at the top of the [notebook](https://github.com/SusanCThomas/Pymaceuticals-Matplotlib/blob/main/Pymaceuticals/pymaceuticals_.ipynb) after reviewing the previously generated figures and tables.
