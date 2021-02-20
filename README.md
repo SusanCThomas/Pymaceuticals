@@ -34,6 +34,4 @@ Generate a summary statistics table consisting of the mean, median, variance, st
 
 ### Data Analysis
 
-Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
-
 Three observations are included at the top of the [notebook](https://github.com/SusanCThomas/Pymaceuticals-Matplotlib/blob/main/Pymaceuticals/pymaceuticals_.ipynb) after reviewing the previously generated figures and tables.
